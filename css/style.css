@@ -131,3 +131,24 @@ body{
 .icone3{
     display: none;
 }
+
+/*----------------------------------------------------*/
+
+/* input2 et button */
+.btn-input2{
+    height: 20px;
+    width: 20px;
+    margin-left: 5px;
+    margin-top: 5px;
+}
+
+.button2{
+    display: none;
+}
+
+.testmicro{
+    display: block;
+}
+
+
+
